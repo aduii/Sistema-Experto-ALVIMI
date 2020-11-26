@@ -3,4 +3,4 @@
 ### Integrantes:
 * Juep Sifuentes, Alex
 * Pachari Vega, Victor
-* Escudero Perla, Gonzalo
+* Ugarte Vilcanqui, Miguel
