@@ -1,0 +1,24 @@
+---Modelo de Sistema Experto---
+
+Instrucciones para su ejecución
+
+---1--- 
+En primer lugar, tener instalado Swi-Prolog,
+lo puede descargar del siguiente link:
+https://www.swi-prolog.org/download/stable
+
+---2---
+Abrir el archivo Consulta_Medica.pl con Swi-Prolog
+
+---3---
+Escribir "inicio." (sin las comillas) en la consola de Swi-Prolog para ejecutar el programa.
+
+
+
+Si siguió todos los pasos podrá observar un formulario para iniciar el Test.
+
+¡Gracias por usar nuestro sistema experto para diagnosticar
+una enfermadad!
+
+Puede encontrar el código fuente en el siguiente repositorio:
+https://github.com/aduii/Sistema-Experto-ALVIMI
